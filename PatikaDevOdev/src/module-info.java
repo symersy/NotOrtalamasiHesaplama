@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author ŞEYMA
+ *
+ */
+module DersOrtalamasi {
+}
